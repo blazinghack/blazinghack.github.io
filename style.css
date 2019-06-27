@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10vh;
+    display: block;
+}
+
+.text-main {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.text-secondary {
+    font-size: 35px;
+}
