@@ -7,20 +7,20 @@ body {
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 10vh;
+    margin-top: 5vh;
     display: block;
 }
 
 .text {
   font-family: Minecraft;
-  padding: 20px;
+  padding: 10px;
 }
 
 .text-main {
-    font-size: 40px;
+    font-size: 35px;
     font-weight: bold;
 }
 
 .text-secondary {
-    font-size: 35px;
+    font-size: 30px;
 }
